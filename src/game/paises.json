@@ -24,5 +24,6 @@
 {"question": "🇨🇴", "response": "Colombia" }, 
 {"question": "🇲🇽", "response": "México" }, 
 {"question": "🇮🇳", "response": "India" }, 
-{"question": "🇵🇾", "response": "Paraguay" }
+{"question": "🇵🇾", "response": "Paraguay" },
+{"question": "🇵🇾2", "response": "Paraguay2"}
 ]
